@@ -1,0 +1,4 @@
+{
+    "parent": "item/handheld",
+    "textures": { "layer0": "mining_forks:items/netherite_mining_fork" }
+}

@@ -1,0 +1,25 @@
+{
+  "conditions":
+  [
+    { "type": "minecraft:item_exists", "item": "nb:soul_torch" }
+  ],
+  "type": "forge:ore_shaped",
+  "pattern":
+  [
+    " g ",
+    " gg",
+    "a  "
+  ],
+  "key":
+  {
+    "g": { "item": "minecraft:gold_ingot" },
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "gemAmethyst"
+    }
+  },
+  "result":
+  {
+    "item": "mining_forks:golden_mining_fork"
+  }
+}

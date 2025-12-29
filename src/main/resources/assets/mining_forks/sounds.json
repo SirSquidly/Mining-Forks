@@ -1,0 +1,14 @@
+{
+	"item.mining_fork.use":
+	{
+		"category": "player",
+		"subtitle": "subtitle.mining_forks.item.mining_fork.use",
+		"sounds": [ "mining_forks:item/mining_fork/use1" ]
+	},
+	"item.mining_fork.respond":
+	{
+		"category": "player",
+		"subtitle": "subtitle.mining_forks.item.mining_fork.respond",
+		"sounds": [ "mining_forks:item/mining_fork/respond1" ]
+	}
+}   

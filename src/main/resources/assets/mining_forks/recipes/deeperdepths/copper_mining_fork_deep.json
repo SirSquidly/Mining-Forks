@@ -1,0 +1,28 @@
+{
+  "conditions":
+  [
+    { "type": "minecraft:item_exists", "item": "nb:soul_torch" }
+  ],
+  "type": "forge:ore_shaped",
+  "pattern":
+  [
+    " c ",
+    " cc",
+    "a  "
+  ],
+  "key":
+  {
+    "c": {
+      "type": "forge:ore_dict",
+      "ore": "ingotCopper"
+    },
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "gemAmethyst"
+    }
+  },
+  "result":
+  {
+    "item": "mining_forks:copper_mining_fork"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " v ",
+    " gv",
+    "s  "
+  ],
+  "key": {
+    "v": { "item": "veilings:veiling_essence" },
+    "g": { "item": "minecraft:gold_ingot" },
+    "s": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "veilings:calling_bell"
+  }
+}
