@@ -1,7 +1,7 @@
 {
   "conditions":
   [
-    { "type": "minecraft:item_exists", "item": "nb:soul_torch" }
+    { "type": "forge:mod_loaded", "modid": "deeperdepths" }
   ],
   "type": "forge:ore_shaped",
   "pattern":

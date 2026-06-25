@@ -19,7 +19,7 @@ public class miningForks {
     public static final String MOD_ID = "mining_forks";
     public static final String NAME = "Mining Forks";
     public static final String CONFIG_NAME = "mining_forks";
-    public static final String VERSION = "1.0.0";
+    public static final String VERSION = "1.0.0a";
     public static final String DEPENDENCIES = "";
     public static final String CLIENT_PROXY_CLASS = "com.sirsquidly.mining_forks.client.ClientProxy";
     public static final String COMMON_PROXY_CLASS = "com.sirsquidly.mining_forks.common.CommonProxy";

@@ -1,22 +1,22 @@
 {
   "conditions":
   [
-    { "type": "forge:mod_loaded", "modid": "deeperdepths" }
+    {
+      "type": "forge:not",
+      "value": { "type": "forge:mod_loaded", "modid": "deeperdepths" }
+    }
   ],
   "type": "forge:ore_shaped",
   "pattern":
   [
     " d ",
     " dd",
-    "a  "
+    "e  "
   ],
   "key":
   {
     "d": { "item": "minecraft:diamond" },
-    "a": {
-      "type": "forge:ore_dict",
-      "ore": "gemAmethyst"
-    }
+    "e": { "item": "minecraft:emerald" }
   },
   "result":
   {
