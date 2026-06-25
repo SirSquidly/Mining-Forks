@@ -2,15 +2,15 @@
   {
     "modid": "mining_forks",
     "name": "Mining Forks",
-    "description": "Adds tools that detect ore through walls. ",
+    "description": "Adds a new prospecting tool type, used to detect ores hidden behind blocks.",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "modpage",
+    "url": "https://github.com/SirSquidly/Mining-Forks",
     "authorList": [
       "Sir Squidly"
     ],
     "credits": "The_Computerizer for their very nice Build template",
-    "logoFile": "assets/veilings/textures/gui/veilings_logo.png",
+    "logoFile": "assets/mining_forks/textures/mining_fork_icon.png",
     "screenshots": [],
     "dependencies": []
   }
