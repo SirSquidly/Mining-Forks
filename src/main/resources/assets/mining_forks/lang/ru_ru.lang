@@ -1,0 +1,18 @@
+# Translate by MrKoteo
+item.mining_forks.copper_mining_fork.name=Медная шахтёрская вилка
+item.mining_forks.diamond_mining_fork.name=Алмазная шахтёрская вилка
+item.mining_forks.golden_mining_fork.name=Золотая шахтёрская вилка
+item.mining_forks.iron_mining_fork.name=Железная шахтёрская вилка
+item.mining_forks.netherite_mining_fork.name=Незеритовая шахтёрская вилка
+
+
+subtitle.mining_forks.item.mining_fork.use=Шахтёрская вилка вибрирует
+subtitle.mining_forks.item.mining_fork.respond=Шахтёрская вилка резонирует
+
+
+config.mining_forks.title=Конфигурация Mining Forks
+config.mining_forks.configVersion=Версия конфига
+config.mining_forks.item.miningFork.miningForkTypes=Реестр шахтёрских вилок
+config.mining_forks.item.miningFork.miningForkDepthCheck=Проверка глубины блоков
+config.mining_forks.item.miningFork.miningForkRadiusCheck=Проверка радиуса блоков
+config.mining_forks.item.miningFork.mineshaftLootInjection=Вставка в таблицу лута шахт
